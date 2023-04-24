@@ -47,83 +47,13 @@
                     </div>
 
                     <div class="mb-5">
-                        <img class="img-fluid rounded w-100 mb-4" src="../assets/img/img-pag/capellania.png" alt="Image">
-                        <p>El servicio de orientación espiritual ofrecido por un capellán es una valiosa herramienta para fortalecer 
-                            los principios morales y cristianos de los niños y jóvenes, lo que a su vez contribuye al desarrollo integral 
-                            de la persona. A través de la escucha activa y la orientación personalizada, se logra establecer un diálogo en 
-                            el que se abordan temas relevantes para la vida de los niños y niñas, permitiéndoles reflexionar y encontrar 
-                            respuestas a sus inquietudes y desafíos.
-                        </p>
-                        <p>Además, la vivencia de la fe a través de los sacramentos es un elemento clave para fortalecer la orientación 
-                            espiritual de los niños y niñas, ya que les permite tener un encuentro personal con Dios y profundizar en su 
-                            relación con Él. La participación en la Eucaristía, la confesión y otros sacramentos son una forma concreta de 
-                            vivir la fe y de recibir la gracia divina que fortalece el espíritu y el alma.
-                        </p>
-                        <p>En definitiva, el servicio de orientación espiritual ofrecido por un capellán no solo contribuye a fortalecer los 
-                            principios morales y cristianos de los niños y jóvenes, sino que también les brinda herramientas para afrontar los 
-                            desafíos de la vida con una perspectiva de fe y de confianza en Dios, lo que resulta fundamental para lograr un desarrollo 
-                            integral y una vida plena y satisfactoria.
-                        </p>
-<!-- 
-      <table class="table">
-        <thead>
-          <tr>
-            <th>Encabezado 1</th>
-            <th>Encabezado 2</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Dato 4</td>
-            <td><button class="btn btn-primary">Botón</button></td>
-          </tr>
-          <tr>
-            <td>Dato 7</td>
-            <td><button class="btn btn-primary">Botón</button></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div> -->
+                        <img class="img-fluid rounded w-100 mb-4" src="../assets/img/img-pag/circulares.png" alt="Image">
+                        <p>Descargar las circulares es fundamental para estar al tanto de noticias, eventos y políticas en la comunidad educativa. Esta acción es fácil y conveniente, y garantiza que los estudiantes estén preparados para el éxito académico. Mantenerse informado sobre horarios, actividades extracurriculares y fechas importantes es clave para una experiencia educativa exitosa. Descargue las circulares hoy mismo y no se pierda ninguna información importante.
+                        </p><br>
 
-
-
-<table class="table">
-  <thead class="thead-dark">
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">Descripción</th>
-      <th scope="col">Descarga</th>
-
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>CIRCULAR No. 10 SOBRE COSTOS EDUCATIVOS AÑO 2023</td>
-      <td><a href="https://drive.google.com/file/d/1j_kMsuEtx9I6nhxLhAjx1zPH59reQvk3/view?usp=share_link" target="_blank" class=" btn-primary">Descargar</a></td>
-    </tr>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>CIRCULAR No. 10 SOBRE COSTOS EDUCATIVOS AÑO 2023</td>
-      <td><a href="https://drive.google.com/file/d/1j_kMsuEtx9I6nhxLhAjx1zPH59reQvk3/view?usp=share_link" target="_blank" class=" btn-primary">Descargar</a></td>
-    </tr>
-    <tr>
-      <th scope="row">1</th>
-      <td>CIRCULAR No. 10 SOBRE COSTOS EDUCATIVOS AÑO 2023</td>
-      <td><a href="https://drive.google.com/file/d/1j_kMsuEtx9I6nhxLhAjx1zPH59reQvk3/view?usp=share_link" target="_blank" class=" btn-primary">Descargar</a></td>
-    </tr>
-  </tbody>
-</table>
-
-  
+                        <!-- includes circular-->
+                        <?php include '../includes/circular-tables.php';?>
+                        <!-- includes circular-->
                     </div>
                 </div>
 

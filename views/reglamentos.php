@@ -46,10 +46,12 @@
 
                     <div class="mb-5">
                         <img class="img-fluid rounded w-100 mb-4" src="../assets/img/img-pag/reglamento.png" alt="Image">
-                        <p>El reglamento estudiantil es un conjunto de normas y disposiciones que establecen las pautas y lineamientos para la conducta y el comportamiento de los estudiantes dentro de un determinado entorno educativo, en aras de garantizar un ambiente seguro, sano y respetuoso para el desarrollo integral de los estudiantes y la consecución de los objetivos académicos y formativos establecidos por la institución educativa, y su cumplimiento contribuye a la formación de ciudadanos responsables, comprometidos y éticos.
+                        <p>El reglamento estudiantil es un conjunto de normas que establecen las pautas para la conducta de los estudiantes en un entorno educativo seguro y respetuoso. Su cumplimiento es fundamental para el desarrollo integral de los estudiantes y para lograr los objetivos académicos y formativos de la institución educativa. Además, contribuye a formar ciudadanos responsables y éticos.
                         </p>
                         
-                  
+                        <!-- includes circular-->
+                        <?php include '../includes/regulations-tables.php';?>
+                        <!-- includes circular-->
                     </div>
                     </div>
             
