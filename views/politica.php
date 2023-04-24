@@ -41,11 +41,11 @@
                         <div class="d-flex mb-2">
                             <a class="text-secondary text-uppercase font-weight-medium" href="">Colegio Nuestra Señora del Rosario</a>
                         </div>
-                        <h1 class="section-title mb-3">Política de calidad</h1>
+                        <h1 class="section-title mb-3">Política de calidad educativa</h1>
                     </div>
 
                     <div class="mb-5">
-                        <img class="img-fluid rounded w-100 mb-4" src="../assets/img/politica/img-1.png" alt="Image">
+                        <img class="img-fluid rounded w-100 mb-4" src="../assets/img/img-pag/politica.png" alt="Image">
                         <p>El Colegio Nuestra Señora del Rosario, de El Espinal - Tolima, se fundamenta en una propuesta pedagógica centrada 
                             en la persona y en la evangelización, para esto, ofrece un servicio educativo de calidad, apoyado en las 
                             herramientas de la tecnología, la información y la comunicación; el aprendizaje y dominio del inglés como lengua 

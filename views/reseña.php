@@ -41,11 +41,11 @@
                         <div class="d-flex mb-2">
                             <a class="text-secondary text-uppercase font-weight-medium" href="">Colegio Nuestra Señora del Rosario</a>
                         </div>
-                        <h1 class="section-title mb-3">Reseña histórica</h1>
+                        <h1 class="section-title mb-3">Una mirada a la trayectoria del Colegio Nuestra Señora del Rosario</h1>
                     </div>
 
                     <div class="mb-5">
-                        <img class="img-fluid rounded w-100 mb-4" src="../assets/img/reseña/img-1.png" alt="Image">
+                        <img class="img-fluid rounded w-100 mb-4" src="../assets/img/img-pag/reseña.png" alt="Image">
                         <p>El primero de febrero de 1947, se dio comienzo a la obra educativa dirigida por el Instituto de las HIJAS DE LOS 
                             SAGRADOS CORAZONES DE JESUS Y MARIA, con ciento cincuenta y cinco (155) niñas, de primaria en una planta 
                             física propiedad del Municipio, con el nombre de COLEGIO NUESTRA SEÑORA DEL ROSARIO, en honor a la patrona de la 
