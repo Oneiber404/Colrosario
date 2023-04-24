@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107 45" width="107" height="45">
+	<title>alfatelco</title>
+	<defs>
+		<image  width="38" height="44" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 20px;fill: #ffffff;font-weight: 400;font-family: "Audiowide-Regular", "Audiowide" } 
+		.t1 { font-size: 5px;fill: #ffffff;font-weight: 400;font-family: "Audiowide-Regular", "Audiowide" } 
+		.t2 { font-size: 14px;fill: #ffffff;font-weight: 400;font-family: "Audiowide-Regular", "Audiowide" } 
+	</style>
+	<use id="Background" style="mix-blend-mode: darken" href="#img1" x="0" y="1"/>
+	<text id="NOVA CLIK" style="transform: matrix(.704,0,0,.764,19.769,25.977)" >
+		<tspan x="0" y="0" class="t0">N</tspan><tspan  y="0" class="t0">O</tspan><tspan  y="0" class="t0">V</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">C</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0">K</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+	<text id="Llevándote más allá de tu imagin" style="transform: matrix(.704,0,0,.764,20.769,30.977)" >
+		<tspan x="0" y="0" class="t1">Llevándote más allá de tu imaginación.</tspan><tspan  y="0" class="t2">
+</tspan>
+	</text>
+	<text id="Layer 5" style="transform: matrix(1,0,0,1,31,23)" >
+	</text>
+</svg>

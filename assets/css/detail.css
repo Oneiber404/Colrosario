@@ -1,0 +1,15 @@
+
+   .cronograma_intitucional-selecciona{
+    border: solid 1px silver;
+    border-radius: 2px;
+    font-family: verdana;
+    text-align: justify;
+    padding: 5px;
+    max-height: 220px !important;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    height: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 95%;
+  }
