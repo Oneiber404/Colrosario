@@ -64,8 +64,69 @@
                             desafíos de la vida con una perspectiva de fe y de confianza en Dios, lo que resulta fundamental para lograr un desarrollo 
                             integral y una vida plena y satisfactoria.
                         </p>
+<!-- 
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Encabezado 1</th>
+            <th>Encabezado 2</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Dato 4</td>
+            <td><button class="btn btn-primary">Botón</button></td>
+          </tr>
+          <tr>
+            <td>Dato 7</td>
+            <td><button class="btn btn-primary">Botón</button></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> -->
+
+
+
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Descripción</th>
+      <th scope="col">Descarga</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>CIRCULAR No. 10 SOBRE COSTOS EDUCATIVOS AÑO 2023</td>
+      <td><a href="https://drive.google.com/file/d/1j_kMsuEtx9I6nhxLhAjx1zPH59reQvk3/view?usp=share_link" target="_blank" class=" btn-primary">Descargar</a></td>
+    </tr>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>CIRCULAR No. 10 SOBRE COSTOS EDUCATIVOS AÑO 2023</td>
+      <td><a href="https://drive.google.com/file/d/1j_kMsuEtx9I6nhxLhAjx1zPH59reQvk3/view?usp=share_link" target="_blank" class=" btn-primary">Descargar</a></td>
+    </tr>
+    <tr>
+      <th scope="row">1</th>
+      <td>CIRCULAR No. 10 SOBRE COSTOS EDUCATIVOS AÑO 2023</td>
+      <td><a href="https://drive.google.com/file/d/1j_kMsuEtx9I6nhxLhAjx1zPH59reQvk3/view?usp=share_link" target="_blank" class=" btn-primary">Descargar</a></td>
+    </tr>
+  </tbody>
+</table>
+
+  
                     </div>
                 </div>
+
             
 <!-- Detail Start -->
 <?php include '../includes/detail.php';?>

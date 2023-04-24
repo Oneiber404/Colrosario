@@ -113,6 +113,11 @@ dl {
   margin-bottom: 1rem;
 }
 
+ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
 ol ol,
 ul ul,
 ol ul,
