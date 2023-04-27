@@ -16,6 +16,14 @@
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 
+
+
+    <link rel="stylesheet" href="../assets/css/carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="../assets/css/carousel/owl.theme.default.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
+	<link rel="stylesheet" href="../assets/css/carousel/style.css">
+
+
     <!-- Libraries Stylesheet -->
     <link href="../assets/js/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="../assets/js/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">

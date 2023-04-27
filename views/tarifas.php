@@ -46,23 +46,12 @@
 
                     <div class="mb-5">
                         <img class="img-fluid rounded w-100 mb-4" src="../assets/img/img-pag/tarifas.png" alt="Image">
-                        <p>La psicoorientacion en el contexto educativo es un servicio que se presta a la comunidad estudiantil, 
-                            con el fin de realizar la correcta intervención, acompañamiento y seguimiento en las diferentes dificultades
-                            de aprendizaje, situaciones académicas y convivenciales que se presentan, permitiendo que los estudiantes 
-                            logren un mejor desempeño en todas las áreas (personal, educativa, social y familiar), fomentando el desarrollo 
-                            psicosocial de los niños, niñas y adolescentes con el acompañamiento oportuno de los padres de familia y docentes.
-                            Así mismo se desarrollan actividades de promoción, prevención en los diferentes grados con temáticas relacionadas
-                            al desarrollo psicosocial de los estudiantes como:  
-                        </p>
-                        <p> <b>- Estimulación temprana de los estudiantes de preescolar. <br> - Fortalecimiento de valores  institucionales <br>
-                            - Evitando Acoso escolar o “Bullying” <br> - Acompañando en los cambios físicos y emocionales de la edad. <br>
-                            - Que practiquen la comunicación asertiva y liderazgo. <br> - La realización del proyecto de vida y Orientación vocacional <br>
-                            - Fortalecer la Dinámica familiar (relaciones afectivas y roles). <br> - Encausando la autoestima, Auto concepto y Autoimagen. <br>
-                            - Educación constante sobre  sexualidad  y convivencia ciudadana.</b><br><br> Se proporciona el acompañamiento adecuado para que a través
-                            de las diferentes problemáticas y crisis que se presentan en las etapas del desarrollo, identifiquen cómo abordarlas de forma asertiva,
-                            lo que les permitirá un mejor manejo de las situaciones que se pueden presentar no solo en el contexto personal, sino familiar, escolar
-                            y  social. 
-                        </p>       
+                        <p><h3 style="text-align:center">COSTOS EDUCATIVOS AÑO 2023 TARIFA DE MATRÍCULA Y PENSIONES</h3></p>
+
+                        <!-- Detail Start -->
+                        <?php include '../includes/tarifas-table.php';?>
+                        <!-- Detail End -->
+
                     </div>
                 </div>
 <!-- Detail Start -->

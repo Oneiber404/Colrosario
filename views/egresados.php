@@ -31,8 +31,24 @@
 </header>
 <!-- Page Header End -->
 
+<div class="container-fluid py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="mb-5">
+                        <div class="d-flex mb-2">
+                            <a class="text-secondary text-uppercase font-weight-medium" href="">Colegio Nuestra Señora del Rosario</a>
+                        </div>
+                        <h1 class="section-title mb-3">Visita estas páginas relacionadas</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
  <!-- Team Start -->
-<?php include '../includes/egresados-3.php';?>
+<?php include '../includes/carousel.php';?>
  <!-- Team End Start -->
 
 <!-- Footer Start -->

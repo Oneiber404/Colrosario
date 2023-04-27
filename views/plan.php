@@ -66,9 +66,10 @@
                             desarrollo intelectual, social, cultural, económico y político del país. <br><br>Reconocemos en los estudiantes de grado Undécimo, su conocimiento  
                             y habilidades de la lengua extrajera, mediante un aprueba internacional (APPTIS), que permite que el futuro egresado se desempeñe adecuadamente en este idioma.
                         </p>
+                        <a href="https://drive.google.com/file/d/16wTHeITdPv5_mumVHhlZnG_8E6ZZI6_n/view?usp=share_link" target="_blank" ><button>Ver intensidad horaria</button></a>
                     </div>
                 </div>
-            
+        
 <!-- Detail Start -->
 <?php include '../includes/detail.php';?>
 <!-- Detail End -->

@@ -513,6 +513,8 @@
    <!-- Features End -->
 
 
+
+
   
    <!-- NewS  -->
    <div class="container-fluid bg-news py-5">
@@ -751,7 +753,7 @@
 <!-- Footer End -->
    
    <!-- Back to Top -->
-   <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+   <a href="#" class="bt btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
    <!-- includes -->
    <?php include 'includes/pse.php';?>
    <!-- includes End -->

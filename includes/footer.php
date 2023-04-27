@@ -52,6 +52,12 @@
 </div>
 <!-- Footer End -->
 
+    <script src="../assets/js/carousel/jquery.min.js"></script>
+    <script src="../assets/js/carousel/popper.js"></script>
+    <script src="../assets/js/carousel/bootstrap.min.js"></script>
+    <script src="../assets/js/carousel/owl.carousel.min.js"></script>
+    <script src="../assets/js/carousel/main.js"></script>
+
     <!-- Preload -->
     <script src="../assets/js/preload.js"></script>
 

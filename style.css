@@ -5,7 +5,7 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
- :root {
+:root {
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -2339,8 +2339,6 @@ textarea.form-control {
   border-radius: 5px;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-
-
 
 @media (prefers-reduced-motion: reduce) {
   .btn {
@@ -9736,13 +9734,6 @@ h6,
   font-weight: 500 !important;
 }
 
-.bt {
-  font-weight: 500;
-  padding: 7px 25px;
-  border-radius: 100px;
-}
-
-
 .btn {
   font-weight: 500;
   padding: 10px 25px;
@@ -9770,8 +9761,6 @@ h6,
   justify-content: center;
   border-radius: 75px;
 }
-
-
 
 .back-to-top {
   position: fixed;
@@ -9991,24 +9980,20 @@ h6,
 }
 
 .bg-service {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/pag-1.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carousel-1.jpg), no-repeat center center;
   background-size: cover;
 }
 
-/* .bg-portfolio {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/pag-2.jpg), no-repeat center center;
-  background-size: cover;
-} */
-
-.bg-news {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/pag-2.jpg), no-repeat center center;
+.bg-portfolio {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carousel-2.jpg), no-repeat center center;
   background-size: cover;
 }
 
 .bg-testimonial {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/pag-2.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carousel-3.jpg), no-repeat center center;
   background-size: cover;
 }
+
 .owl-carousel .owl-nav {
   position: absolute;
   width: 100%;
@@ -10143,19 +10128,4 @@ h6,
   margin: 0;
   padding: 0;
   list-style-type: none;
-}
-
-#cronograma-vertical-institucional {
-  border: solid 1px silver;
-  border-radius: 2px;
-  font-family: verdana;
-  text-align: justify;
-  padding: 5px;
-  max-height: 220px !important;
-  margin: 0 auto;
-  margin-bottom: 15px;
-  height: auto;
-  overflow-y: auto;
-  overflow-x: hidden;
-  width: 95%;
 }
